@@ -1,5 +1,7 @@
-**Project 1: Web App Connected to Amazon Aurora**
+**Project 1: Web App Connected to Amazon Aurora** 
+
 Project Overview
+
 This project demonstrates how to connect a web application to Amazon Aurora, a fully managed relational database service that supports MySQL and PostgreSQL compatibility. The web app is hosted on an EC2 instance and fetches user information directly from the Aurora database.
 
 What is Amazon Aurora?
@@ -17,7 +19,9 @@ Apache Web Server
 Nano Editor (for file modifications)
 
 **Project 2: Load and Query DynamoDB Tables**
+
 Project Overview
+
 This project demonstrates how to create, load, and query Amazon DynamoDB tables using the AWS CLI and CloudShell. DynamoDB is a fully managed, serverless NoSQL database that provides high scalability and low-latency performance for modern applications.
 
 What is Amazon DynamoDB?
